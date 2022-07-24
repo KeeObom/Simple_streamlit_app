@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
+# Designed by Melu Natam
 # Basic Stock Price App
 
 Shown are the stock **closing price** and ***volume*** of Google!
